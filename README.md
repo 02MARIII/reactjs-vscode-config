@@ -1,1 +1,1 @@
-# vscode-config
+## vscode json setting for react :D
